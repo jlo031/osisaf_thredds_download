@@ -13,7 +13,7 @@ Create anaconda environment:
     conda activate OSISAF
 
     # install requirements
-    conda install -y xarray loguru requests
+    conda install -y xarray loguru requests netCDF4 pydap
 
 
 ### Installation
