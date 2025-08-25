@@ -1,4 +1,4 @@
-# ---- This <osisaf_thredds_download.py> ----
+# ---- This <download.py> ----
 
 """
 Download passive microwave SIC products from OSISAF thredds server
@@ -200,4 +200,4 @@ def download_osisaf_level2_daily_SIC(date, hemisphere, sensor, download_dir, ove
 # -------------------------------------------------------------------------- #
 # -------------------------------------------------------------------------- #
 
-# ---- End of <osisaf_thredds_download.py> ----
+# ---- End of <download.py> ----
