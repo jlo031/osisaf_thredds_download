@@ -19,6 +19,8 @@ setup(
         'xarray',
         'requests',
         'bs4',
+        'netCDF4',
+        'pydap',
     ],
     packages = find_packages(where='src'),
     package_dir = {'': 'src'},
